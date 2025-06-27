@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/about", "destination": "/about.html" },
+    { "source": "/contact", "destination": "/contact.html" },
+    { "source": "/faq", "destination": "/faq.html" },
+    { "source": "/disclaimer", "destination": "/disclaimer.html" },
+    { "source": "/privacy", "destination": "/privacy.html" },
+    { "source": "/terms", "destination": "/terms.html" },
+    { "source": "/solutions", "destination": "/solutions.html" },
+    { "source": "/computer-printer", "destination": "/computer-printer.html" },
+    { "source": "/connect-printer", "destination": "/connect-printer.html" },
+    { "source": "/setting-up", "destination": "/setting-up.html" },
+    { "source": "/updates", "destination": "/updates.html" }
+  ]
+}
